@@ -135,6 +135,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+logs/
+Energy_Comsumption.egg-info/
 
 # Spyder project settings
 .spyderproject
