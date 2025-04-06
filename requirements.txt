@@ -7,4 +7,8 @@ dill
 flask
 owid.catalog
 openpyxl
+qiskit
+qiskit-machine-learning
+qiskit-aer
+qiskit.algorithms
 #-e .
