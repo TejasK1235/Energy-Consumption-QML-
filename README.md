@@ -43,7 +43,7 @@ The project was inspired by the growing need for energy efficiency and the emerg
 
 [Performance Comparison Plot](https://github.com/TejasK1235/Energy-Consumption-QML-/blob/main/artifacts/Performance_Comparison.png)
 
-This plotcompares actual vs. predicted energy consumption values across all models used in the project.
+This plot compares actual vs. predicted energy consumption values across all models used in the project.
 
 ---
 
